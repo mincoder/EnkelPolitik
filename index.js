@@ -5,17 +5,17 @@ var path = require("path")
 var fs = require("fs")
 var file
 var app = express()
-var Algorithm = require('QuizCalculator_2.0.js')
+//var Algorithm = require('QuizCalculator_2.0.js')
 eval(fs.readFileSync('jquery.js')+'');
 /// 
 
 
 
-calc(1,2,3,4,5)   //party,P_VOTES, U_VOTES, Q_IMP ,P_YES,P_NO
+//calc(1,2,3,4,5)   //party,P_VOTES, U_VOTES, Q_IMP ,P_YES,P_NO
 
 
 
-s
+
 
 
 
